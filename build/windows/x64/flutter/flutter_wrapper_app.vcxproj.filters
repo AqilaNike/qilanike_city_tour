@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\FOU\aqilanikeindriani_city_tour\windows\flutter\ephemeral\cpp_client_wrapper\core_implementations.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\FOU\aqilanikeindriani_city_tour\windows\flutter\ephemeral\cpp_client_wrapper\standard_codec.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\FOU\aqilanikeindriani_city_tour\windows\flutter\ephemeral\cpp_client_wrapper\flutter_engine.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\FOU\aqilanikeindriani_city_tour\windows\flutter\ephemeral\cpp_client_wrapper\flutter_view_controller.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\FOU\aqilanikeindriani_city_tour\windows\flutter\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{3BE1D9CB-CF77-333A-997F-DF92C4B98059}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{EABEA73A-153F-3D1E-833D-437374359CAD}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
